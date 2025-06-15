@@ -54,6 +54,5 @@ most_common_np_chunks = np_chunk_counter(np_chunked_text)
 print(most_common_np_chunks)
 
 # store and print the most common VP-chunks here
-# store and print the most common VP-chunks here
 most_common_vp_chunks = vp_chunk_counter(vp_chunked_text)
 print(most_common_vp_chunks)
